@@ -1,0 +1,20 @@
+
+1. CREATE: Dit recht stelt gebruikers in staat nieuwe database-objecten aan te maken, zoals tabellen of procedures.
+
+2. ALTER: Met het ALTER-recht kunnen gebruikers de structuur van bestaande database-objecten wijzigen, zoals kolommen in een tabel.
+
+3. SELECT (uitgesloten)**: SELECT-rechten zijn nodig om gegevens uit de database op te halen.
+
+4. GRANT: Dit recht geeft gebruikers de mogelijkheid om privileges aan andere gebruikers toe te kennen.
+
+Wanneer je ze nodig hebt:
+
+- CREATE: Bij het maken van nieuwe database-objecten voor een toepassing of bij het aanpassen van de database-structuur.
+
+- ALTER: Wanneer je bestaande database-objecten wilt wijzigen zonder ze te verwijderen.
+
+Mogelijkheden voor hackers:
+
+- CREATE: Hackers kunnen met CREATE-rechten valse objecten maken om toegang te krijgen tot gegevens of schade aan te richten.
+
+- ALTER: Met ALTER-rechten kunnen hackers de structuur van objecten wijzigen, wat gegevensverlies of ongeautoriseerde toegang kan veroorzaken. Beheer de toegangsrechten zorgvuldig om ongeautoriseerde toegang te voorkomen.
