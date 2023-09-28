@@ -1,0 +1,9 @@
+Schiphol :
+Adres : Evert v/d Beekstraat 202, 1118 Schiphol Centrum 
+
+Straat 3
+Nummer 4
+Stad 2
+Provinci 1
+
+Deze vlaggen worden gebruikt om de integriteit te behouden en beperkingen af te dwingen in kolommen. Een primairesleutelbeperking zorgt er bijvoorbeeld voor dat een waarde slechts een keer in de kolom kan bestaan, terwijl een unieke beperking duplicaten voorkomt.
